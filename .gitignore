@@ -1,0 +1,4 @@
+Makefile
+output
+*.pyc
+*.pid
