@@ -23,7 +23,8 @@ AUTHOR_FEED_RSS = None
 LINKS = ()
 
 # Social widget
-SOCIAL = (('Twitter', 'https://twitter.com/sblancov84'),)
+SOCIAL = (('Twitter', 'https://twitter.com/sblancov84'),
+          ('Github', 'https://github.com/sblancov'),)
 
 DEFAULT_PAGINATION = 5
 
