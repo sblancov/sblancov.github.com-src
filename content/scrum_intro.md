@@ -1,10 +1,10 @@
 Title: Definición, principios y valores de Scrum.
 Date: 2017-12-13
-Modified: 2017-12-13
+Modified: 2017-12-18
 Category: Scrum
 Tags: Agile, Scrum
 Authors: Santiago Blanco
-Summary: Primera parte de la guía de Scrum
+Summary: La filosofía subyacente de Scrum
 
 # Introducción
 
