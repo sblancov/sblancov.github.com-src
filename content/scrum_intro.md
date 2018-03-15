@@ -47,3 +47,7 @@ Si en alguna inspeción se determina que el proceso se desvía mas allá de unos
 * Respeto, para ser capaces e independientes.
 
 Cuando todos los valores son adoptados por el Scrum Team los tres principios, transparencia, inspección y adaptación, cobran vida y construyen la confianza que necesita el equipo.
+
+# Más información
+
+La fuente de información principal es la [Scrum Guide](http://www.scrumguides.org/scrum-guide.html). En el sitio oficial de [Scrum](https://www.scrum.org/) se puede encontrar información relacionada con Scrum así como todo lo necesario para poder certificarse en los diferentes roles definidos en la guía.

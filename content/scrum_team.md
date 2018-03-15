@@ -96,3 +96,7 @@ El Scrum Master ha de ser un [servant-leader](https://en.wikipedia.org/wiki/Serv
 * Ayudando tanto a empleados como a clientes a entender y representar a Scrum y el desarrollo de producto empírico.
 * Provocando cambios que incrementen la productividad del Scrum Team.
 * Trabajando con otros Scrum Master para incrementar la eficacia de la adopción de Scrum en la organización.
+
+# Más información
+
+La fuente de información principal es la [Scrum Guide](http://www.scrumguides.org/scrum-guide.html). En el sitio oficial de [Scrum](https://www.scrum.org/) se puede encontrar información relacionada con Scrum así como todo lo necesario para poder certificarse en los diferentes roles definidos en la guía.
