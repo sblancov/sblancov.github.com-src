@@ -1,10 +1,10 @@
-Title: Scrum Events
-Date: 2017-12-13
-Modified: 2017-12-13
+Title: Los eventos de Scrum
+Date: 2018-03-19
+Modified: 2018-03-19
 Category: Scrum
 Tags: Agile, Scrum
 Authors: Santiago Blanco
-Summary: Los eventos que se definen en Scrum
+Summary: En Scrum se definen cuatro eventos que ayudan a adaptar e inspeccionar.
 
 # Eventos
 
