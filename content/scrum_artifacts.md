@@ -1,6 +1,6 @@
 Title: Artefactos de Scrum
 Date: 2018-03-19
-Modified: 2018-03-19
+Modified: 2018-03-22
 Category: Scrum
 Tags: Agile, Scrum
 Authors: Santiago Blanco
